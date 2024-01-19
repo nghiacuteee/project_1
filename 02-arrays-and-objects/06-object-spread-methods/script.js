@@ -1,6 +1,6 @@
 let x;
 
-// Create object using the object constructor
+
 const todo = new Object();
 
 todo.id = 1;
@@ -9,7 +9,7 @@ todo.completed = false;
 
 x = todo;
 
-// Object Nesting
+
 const person = {
   address: {
     coords: {
